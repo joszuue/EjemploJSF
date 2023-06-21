@@ -1,0 +1,11 @@
+body{
+    background-color: #ebebeb;
+}
+
+.icon-link {
+    text-decoration: none !important;
+}
+
+.jumbotron {
+    background-color: white;
+  }
